@@ -27,5 +27,5 @@ Whether you're deploying a microservices-based application, a high-availability 
 
 ```bash
 aws-infra-setup/
-├── Infrastructure1
+├── Infrastructure-1
 └── README.md             # You're here!
